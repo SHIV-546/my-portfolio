@@ -1,0 +1,78 @@
+#home-page {
+    background: #6554AF;
+}
+#about-page{
+    background: #6527BE;
+    color: white;
+    text-align: center;
+}
+#contact-page {
+    background: #9575DE;
+    color: white;
+    text-align: center;
+}
+.head {
+    color: white;
+    font-family: 'Russo One', sans-serif;
+    font-weight: lighter;
+}
+
+.first-div {
+    text-align: center;
+}
+
+.second-div {
+    text-align: center;
+}
+
+#about {
+    border: none;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: cornsilk;
+    font-weight: bold;
+    color: #6554AF;
+    cursor: pointer;
+}
+
+#home {
+    border: none;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: cornsilk;
+    font-weight: bold;
+    color: #6554AF;
+    cursor: pointer;
+}
+
+#contact {
+    border: none;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: cornsilk;
+    font-weight: bold;
+    color: #6554AF;
+    cursor: pointer;
+}
+
+.back-to-home {
+    border: none;
+    background-color: cornsilk;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 15px;
+    color: #6527BE;
+    cursor: pointer;
+}
+
+#contact-home {
+    color: #9575DE;
+}
+
+#footer {
+    display: flex;
+    color: white;
+    justify-content: center;
+    background-color: #9575DE;
+    padding: 5px;
+}
